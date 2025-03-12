@@ -68,7 +68,7 @@ O dataset utilizado contém as seguintes colunas:
 # Resultados
 **1. Estado com Maior Quantidade de Imóveis**
 
-O estado com a maior quantidade de imóveis disponíveis para alugar foi identificado como CA (Califórnia).
+O estado com a maior quantidade de imóveis disponíveis para alugar foi identificado como TX (Texas).
 
 **2. Valor Médio, Mediana e Moda dos Aluguéis**
 
