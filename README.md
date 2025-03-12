@@ -72,11 +72,12 @@ O estado com a maior quantidade de imóveis disponíveis para alugar foi identif
 
 **2. Valor Médio, Mediana e Moda dos Aluguéis**
 
-Média: O valor médio do aluguel é de $1,527.06.
+Média: O valor médio do aluguel é de $1217.63 USD.
 
-Mediana: A mediana do aluguel é de $1,350.00.
+Mediana: A mediana do aluguel é de $975.0 USD.
 
-Moda: A moda do aluguel é de $1,350.00.
+Moda: A moda do aluguel é de $1140.0 USD.
+
 
 **3. Imobiliária com Maior Quantidade de Anúncios**
 
@@ -84,7 +85,7 @@ A imobiliária que concentra a maior quantidade de anúncios é RentDigs.com.
 
 **4. Média de Dias que o Anúncio está Ativo**
 
-A média de dias que um anúncio permanece ativo foi calculada com base na coluna time, que registra o momento em que o anúncio foi lançado. A média de dias ativos é de X dias (o cálculo exato depende da conversão do timestamp para dias).
+A média de dias que um anúncio permanece ativo foi calculada com base na coluna time, que registra o momento em que o anúncio foi lançado. A média de dias ativos é de 2098 dias dias.
 
 # Conclusão
 
